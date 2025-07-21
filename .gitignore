@@ -1,0 +1,5 @@
+exp_data.zip
+.venv/
+__pycache__/
+.vscode/
+exp_data/
