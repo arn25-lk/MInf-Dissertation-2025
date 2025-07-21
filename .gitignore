@@ -3,3 +3,4 @@ exp_data.zip
 __pycache__/
 .vscode/
 exp_data/
+.DS_Store
